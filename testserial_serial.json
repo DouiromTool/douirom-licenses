@@ -2,5 +2,6 @@
   "serial": "LS2N8-687K0-GDC4Q",
   "user": "testserial",
   "mac": null,
-  "expires": "2025-08-09"
+  "expires": "2025-08-09",
+  "revoked": true
 }
