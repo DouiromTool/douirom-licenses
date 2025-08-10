@@ -1,6 +1,7 @@
 {
   "serial": "CMT4E-X0274-JG68N",
   "user": "test one",
+  "mac": "02:09:03:5B:44:C3",
   "expires": "2026-08-28",
-  "status": "inactive"
+  "status": "active"
 }
